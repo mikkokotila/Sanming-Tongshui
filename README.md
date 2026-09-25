@@ -33,7 +33,9 @@ Source work page: [三命通會 (四庫全書本)](https://zh.wikisource.org/wik
 
 [Read juan three in English](translation/juan-03.md). The complete juan is translated in approximately **38,100 words**, followed by **147 translator’s endnotes**. Its 28 editorially numbered sections cover Lu and Horse, Noble Persons, literary and protective indicators, the principal spirits and sha, and the full concluding verse-and-commentary discussions of their interactions. All **136 concluding verse stanzas** are retained. A substantial displacement between the Lu and Traveling Horse passages is restored with comparison-text support and documented in the notes; genuine gaps and inconsistent enumerations remain identified rather than filled by invention.
 
-The repository’s Siku text remains the controlling source. Doubtful readings were selectively compared with the parallel material in the *Gujin Tushu Jicheng*, Arts juan 593–601, and the shorter unlabelled Wikisource versions. For juan two, selected passages were also checked directly against images of the 1909 *Gailiang Sanming Tonghui*, juan 2; the endnotes identify the witnesses and relevant scan pages. For juan three, related quotations in the *Wuxing jingji* and a primary lexical parallel also inform specific repairs; these are identified as parallel witnesses, not additional Siku editions. The endnotes distinguish attested variants, conjectural repairs, and unresolved readings; they also explain terminology and changes of analytical framework. The original Chinese source files are unchanged. This is not a complete line-by-line collation against historical facsimiles.
+[Read juan four in English](translation/juan-04.md). The complete juan is translated in approximately **40,500 English words**, followed by **116 translator’s endnotes**. Its 10 editorially numbered sections include the ten-stem analyses, all twelve monthly-branch discussions, seasonal and regional judgments, and the full verse-and-commentary sequences. The five paired-stem discussions preserve **120 four-line stanzas**; the concluding true-number and nayin material preserves another **62**, all with their transmitted commentary. Ordinary stem phases, transformed or “true” phases, and nayin are distinguished rather than merged into a single system. The separate Siku preface remains untranslated.
+
+The repository’s Siku text remains the controlling source. Doubtful readings were selectively compared with the parallel material in the *Gujin Tushu Jicheng*, Arts juan 593–603, and the shorter unlabelled Wikisource versions. For juan two, selected passages were also checked directly against images of the 1909 *Gailiang Sanming Tonghui*, juan 2; the endnotes identify the witnesses and relevant scan pages. For juan three, related quotations in the *Wuxing jingji* and a primary lexical parallel also inform specific repairs. Juan four also compares relevant *Wuxing jingji* passages; its endnotes give revision-pinned witnesses and distinguish supported repairs from conjecture. These are parallel textual witnesses, not additional Siku editions. The endnotes distinguish attested variants, conjectural repairs, and unresolved readings; they also explain terminology and changes of analytical framework. The original Chinese source files are unchanged. This is not a complete line-by-line collation against historical facsimiles.
 
 ## What is preserved
 
@@ -58,6 +60,7 @@ translation/
   juan-01.md  (English; preface excluded)
   juan-02.md  (English)
   juan-03.md  (English)
+  juan-04.md  (English)
 assets/
   glyphs/    (26 SVG glyph images)
 README.md
