@@ -25,9 +25,15 @@ The preface contributes a further **446 character units** and is not included in
 
 Source work page: [三命通會 (四庫全書本)](https://zh.wikisource.org/wiki/%E4%B8%89%E5%91%BD%E9%80%9A%E6%9C%83_(%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC)). Preface: [pinned revision 657391](https://zh.wikisource.org/w/index.php?oldid=657391); [contributor history](https://zh.wikisource.org/w/index.php?title=%E4%B8%89%E5%91%BD%E9%80%9A%E6%9C%83+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29&action=history). Exported 2026-09-25T10:48:46+00:00.
 
+## English translation
+
+[Read juan one in English](translation/juan-01.md). The complete juan is translated, **excluding the separate Siku editorial preface**, which remains untranslated. The English body is approximately **41,800 words**, followed by **134 translator’s endnotes**. It includes the philosophical debates, all sixty concise entries and their fuller judgments, all thirty detailed nayin essays, and the concluding Five-Phase and seasonal discussions.
+
+The repository’s Siku text remains the controlling source. Doubtful readings were selectively compared with the parallel material in the *Gujin Tushu Jicheng*, Arts juan 593–595, and the shorter unlabelled Wikisource version. The endnotes distinguish attested variants, conjectural repairs, and unresolved readings; they also explain terminology and changes of analytical framework. The original Chinese source files are unchanged. This is not a complete line-by-line collation against historical facsimiles.
+
 ## What is preserved
 
-The files contain the source text, not summaries or translations. All text inside each source page's `onlyinclude` / `poem` region is retained, including the inline notes, source section labels, closing volume labels and classification lines. The order of the source lines is preserved; leading indentation and excess blank lines are normalized. Standalone source anchors become Markdown headings. Wikisource's `SK notes` content is displayed with its text-export delimiters, `〈…〉`.
+The files in `source/` contain the source text, not summaries or translations. All text inside each source page's `onlyinclude` / `poem` region is retained, including the inline notes, source section labels, closing volume labels and classification lines. The order of the source lines is preserved; leading indentation and excess blank lines are normalized. Standalone source anchors become Markdown headings. Wikisource's `SK notes` content is displayed with its text-export delimiters, `〈…〉`.
 
 Rare-character placeholders are expanded using Wikisource's own `SKchar` mapping at export time. **57 distinct mappings** resolve to Unicode. **26 distinct image-only glyphs**, occurring **126 times**, are retained as inline SVG images with identifying alternative text. Their files are stored in `assets/glyphs/`, outside `source/`; they are glyph images, not font files. Keep the assets directory with the Markdown for offline rendering. The filenames, source URLs, checksums and Commons attribution records are in `SOURCE_MANIFEST.json`.
 
@@ -44,6 +50,8 @@ This establishes a complete, loss-checked export of the named **Wikisource trans
 ```text
 source/
   juan-01.md  …  juan-12.md
+translation/
+  juan-01.md  (English; preface excluded)
 assets/
   glyphs/    (26 SVG glyph images)
 README.md
