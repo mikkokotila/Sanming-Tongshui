@@ -29,7 +29,9 @@ Source work page: [三命通會 (四庫全書本)](https://zh.wikisource.org/wik
 
 [Read juan one in English](translation/juan-01.md). The complete juan is translated, **excluding the separate Siku editorial preface**, which remains untranslated. The English body is approximately **41,800 words**, followed by **134 translator’s endnotes**. It includes the philosophical debates, all sixty concise entries and their fuller judgments, all thirty detailed nayin essays, and the concluding Five-Phase and seasonal discussions.
 
-The repository’s Siku text remains the controlling source. Doubtful readings were selectively compared with the parallel material in the *Gujin Tushu Jicheng*, Arts juan 593–595, and the shorter unlabelled Wikisource version. The endnotes distinguish attested variants, conjectural repairs, and unresolved readings; they also explain terminology and changes of analytical framework. The original Chinese source files are unchanged. This is not a complete line-by-line collation against historical facsimiles.
+[Read juan two in English](translation/juan-02.md). The complete juan is translated in approximately **41,200 words**, followed by **162 translator’s endnotes**. Its 31 editorially numbered sections cover stems and branches, calendrical and astronomical models, the conception origin and life palace, major and minor luck cycles, the annual influence, combinations, transformations, harms, punishments, and clashes. The separate Siku preface remains untranslated.
+
+The repository’s Siku text remains the controlling source. Doubtful readings were selectively compared with the parallel material in the *Gujin Tushu Jicheng*, Arts juan 593–598, and the shorter unlabelled Wikisource versions. For juan two, selected passages were also checked directly against images of the 1909 *Gailiang Sanming Tonghui*, juan 2; the endnotes identify the witnesses and relevant scan pages. The endnotes distinguish attested variants, conjectural repairs, and unresolved readings; they also explain terminology and changes of analytical framework. The original Chinese source files are unchanged. This is not a complete line-by-line collation against historical facsimiles.
 
 ## What is preserved
 
@@ -52,6 +54,7 @@ source/
   juan-01.md  …  juan-12.md
 translation/
   juan-01.md  (English; preface excluded)
+  juan-02.md  (English)
 assets/
   glyphs/    (26 SVG glyph images)
 README.md
