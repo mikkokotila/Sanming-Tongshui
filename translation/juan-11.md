@@ -927,7 +927,7 @@ Ren, Gui, Hai, Shen, Zi, or Chen Water in the pillars welcomes Wu and Ji restrai
 > Bingzi born in summer, one yin growing:  
 > Hai, Zi, Ren, and Gui are Indirect Officer’s country.
 
-〈This clarifies the image of [Water] and Fire accomplishing Completion. Shallow summer qi gives early development. At summer solstice one yin grows; Water gradually flourishes, so Officer and Lu are born and flourish.〉[^146]
+〈This clarifies the image of Wood and Fire accomplishing Completion. Shallow summer qi gives early development. At summer solstice one yin grows; Water gradually flourishes, so Officer and Lu are born and flourish.〉[^146]
 <!-- source: L666-L668 -->
 > The six Jia born in Yin month:  
 > Established Lu without wealth—there is no difference.
@@ -1706,7 +1706,7 @@ Thus the Five Phases must not become lopsided and parched; seek an endowment of 
 
 [^70]: **A shared unresolved combination.** S and G623 both write 辛合於甲, Xin combining with Jia, although the usual five stem combinations pair Xin with Bing and Jia with Ji. The main text keeps the transmitted relation, using “joining” rather than silently substituting either stem. This is not evidence for adding a sixth standard combination. The rest of the paragraph distinguishes same-polarity conflict from differently polarized relations.
 
-[^71]: **Religious and practical readings coexist.** The commentary turns from chart technique to cultivation, quieting desire, and seeking the mysterious. 識者 is rendered “the discerning,” as transmitted in S and G623; it is not silently emended to 釋者, Buddhists, merely to make a Buddhist/Daoist pair. “Without the fitting person, the Way does not act in vain” is quoted from the Changes tradition as the author’s conclusion.
+[^71]: **Religious and practical readings coexist.** The commentary turns from chart technique to cultivation, quieting desire, and seeking the mysterious. S’s 識者 is rendered “the discerning”; G623 instead has the obscure 莫者. Neither is silently emended to 釋者, Buddhists, merely to make a Buddhist/Daoist pair. “Without the fitting person, the Way does not act in vain” is quoted from the Changes tradition as the author’s conclusion.
 
 [^72]: **Two distinct cycling procedures.** Five Rats’ Origin produces Jiaxu in the first illustration; Heavenly-Officer cycling places Xin above Wei in the second. Neither example licenses treating every invisible branch as a displayed pillar. The following Zi/Mao/Wu/You account concerns yin–yang’s growth and decline collectively, not the same twelve-stage table for each separate stem.
 
@@ -1856,7 +1856,7 @@ Thus the Five Phases must not become lopsided and parched; seek an endowment of 
 
 [^145]: **Palaces restored; the framework changes again.** S’s 九官 is read 九宮, Nine Palaces, as in G625. The passage explicitly takes stems, then branches and nayin, before naming the Three Origins. This is not silently converted into the hidden-stem definition given later in *Penetrating Clarity*.
 
-[^146]: **One retained sign and one supported repair.** Both S and G625 call the verse’s subject 丙子, Bingzi, rather than a collective Bing/Ding. That specific pair remains. S’s commentary says 木火既濟, Wood and Fire in Completion; G625 reads 水火, Water and Fire. The main text adopts bracketed “[Water]” with that support. The rising summer-solstice yin is its stated explanation, not an independently supplied theory.
+[^146]: **Two difficult readings retained.** Both S and G625 call the verse’s subject 丙子, Bingzi, rather than a collective Bing/Ding. Both also give 木火既濟, Wood and Fire in Completion, although Water and Fire are the familiar Completion pair and the commentary goes on to discuss Water’s growing strength after the summer solstice. Wood is retained in the main text because the consulted witness does not establish a correction. The juxtaposition remains an unresolved feature of the transmitted explanation.
 
 [^147]: **“Employs Xin” restored.** S’s 月辛為官星為子 is G625’s 用辛, employing Xin as Officer Star and child. The English follows that reading rather than inventing an additional month-pillar condition. The sweeping judgment on Jia born in Yin is the text’s particular account; later chapters permit Established Lu with appropriate Wealth or Officer, and that disagreement remains.
 
