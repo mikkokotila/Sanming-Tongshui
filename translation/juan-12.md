@@ -7,7 +7,7 @@ source_revision: 761707
 source_sha256: "59ad4e2b05ab01b3b5c5adf42b8e18f10ddcc631b94b918933a2b07fe087c364"
 language: "en"
 translation_date: "2026-09-28"
-scope: "Juan twelve in full; the separate Siku editorial preface remains untranslated."
+scope: "Juan twelve in full; the Siku editorial preface is translated separately in preface.md."
 ---
 
 # Sanming Tonghui · Juan Twelve
@@ -2501,4 +2501,4 @@ Generosity belongs to Indirect Wealth, Robbery, and Blade; miserliness to Direct
 
 [^233]: **One useful influence, not necessarily Tianyi alone.** 時上一位貴 is immediately explained as concealed in the branch and requiring a strong Day Master. “Single Noble Influence” preserves that broad wording; the verse does not name Tianyi or provide its calculation. The claim that bodily strength lets gain and reputation possess qi is retained.
 
-[^234]: **Ten years, then two fives.** The final stanza divides the course into upper and lower five-year portions and directs attention first to the passing year and then to the periods that come and go. It does not explicitly assign the two fives to stem and branch in this stanza. 旬 in the closing phrase is rendered “periods,” not the modern English ten-year “decade.” The separate Siku editorial preface is outside this translation.
+[^234]: **Ten years, then two fives.** The final stanza divides the course into upper and lower five-year portions and directs attention first to the passing year and then to the periods that come and go. It does not explicitly assign the two fives to stem and branch in this stanza. 旬 in the closing phrase is rendered “periods,” not the modern English ten-year “decade.” The separate Siku editorial preface is translated in [preface.md](preface.md).

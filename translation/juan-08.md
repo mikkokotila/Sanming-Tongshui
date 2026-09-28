@@ -7,7 +7,7 @@ source_revision: 761697
 source_sha256: "da25e49ce35c8a86488bec197fbb3a767542e7c2e17ec1c5fbbe64d907c4da59"
 language: "en"
 translation_date: "2026-09-26"
-scope: "Juan eight in full; the separate Siku editorial preface remains untranslated."
+scope: "Juan eight in full; the Siku editorial preface is translated separately in preface.md."
 ---
 
 # Sanming Tonghui · Juan Eight

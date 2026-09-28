@@ -7,7 +7,7 @@ source_revision: 657371
 source_sha256: "7a8a62382b117b01281e794bacf178a576ae7b9bc6d0148fbd63b253de213ada"
 language: "en"
 translation_date: "2026-09-25"
-scope: "Juan four in full; the separate Siku editorial preface remains untranslated."
+scope: "Juan four in full; the Siku editorial preface is translated separately in preface.md."
 ---
 
 # Sanming Tonghui · Juan Four
@@ -2007,7 +2007,7 @@ Winter Water holds command amid severe and congealing cold. Rain makes ice; clea
 
 ## Translator’s endnotes
 
-[^01]: **Text and witnesses.** **S** is the repository’s [Chinese juan four](../source/juan-04.md), exported from [Wikisource revision 657371](https://zh.wikisource.org/w/index.php?oldid=657371); its checksum is recorded in the file header. **G602** and **G603** are parallel passages in the *Gujin Tushu Jicheng*, Arts volumes [602, revision 1942565](https://zh.wikisource.org/w/index.php?oldid=1942565), and [603, revision 1942566](https://zh.wikisource.org/w/index.php?oldid=1942566). **U** is the shorter, unlabelled [Wikisource juan four, revision 2119828](https://zh.wikisource.org/w/index.php?oldid=2119828). These are consulted transcriptions, not a claim to independent line-by-line collation of historical facsimiles. S controls the selection and sequence; alternative readings are identified where used. Agreement among online texts does not establish independent descent. The separately transmitted Siku editorial preface is not translated here. English section numbering is editorial.
+[^01]: **Text and witnesses.** **S** is the repository’s [Chinese juan four](../source/juan-04.md), exported from [Wikisource revision 657371](https://zh.wikisource.org/w/index.php?oldid=657371); its checksum is recorded in the file header. **G602** and **G603** are parallel passages in the *Gujin Tushu Jicheng*, Arts volumes [602, revision 1942565](https://zh.wikisource.org/w/index.php?oldid=1942565), and [603, revision 1942566](https://zh.wikisource.org/w/index.php?oldid=1942566). **U** is the shorter, unlabelled [Wikisource juan four, revision 2119828](https://zh.wikisource.org/w/index.php?oldid=2119828). These are consulted transcriptions, not a claim to independent line-by-line collation of historical facsimiles. S controls the selection and sequence; alternative readings are identified where used. Agreement among online texts does not establish independent descent. The separately transmitted Siku editorial preface is translated in [preface.md](preface.md). English section numbering is editorial.
 
 [^02]: **Changing analytical frames.** The opening discussions generally take the day stem as their reference. Later passages also use the birth-year stem, branch, nayin, and the “true” or transformed Five Phases. A Wood person in one passage is therefore not automatically a Wood Day Master in another. “Ghost” translates 鬼 when an overcoming influence is discussed as hostile or ungoverned; it can become useful Officer through appropriate restraint. “Body,” “root,” “ruler,” and “useful influence” are retained according to their local argument, not flattened into one modern formula. The source’s claims about health, lifespan, gender, morality, and rank are translated as historical claims, not established facts about living people. Common graphic confusions among 己, 已, and 巳 are normalized where grammar and the stated stem or branch determine the reading.
 

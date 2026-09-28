@@ -7,7 +7,7 @@ source_revision: 761691
 source_sha256: "c3b12dc4fab50db3b1c21cadc0f58809bf93a02579e98ca530d39efa5f75c730"
 language: "en"
 translation_date: "2026-09-25"
-scope: "Juan two in full; no translation of the separate Siku editorial preface."
+scope: "Juan two in full; the Siku editorial preface is translated separately in preface.md."
 ---
 
 # Sanming Tonghui · Juan Two
@@ -48,6 +48,7 @@ Heaven and Earth join, and the myriad things communicate; those above and below 
 When examining a person's fate, if the stems Jia, Yi, Ding, Geng, Xin, Ren, or Gui occupy the regions of Qian, Gen, Xun, and Kun, one must also judge them according to their transformations. Compare these with the qi-transformations of the ten stems, the sixty nayin, and the stem assignments to the trigrams. One must not judge a fate solely through the River Chart's ordinary Five Phases and then declare, “Such is the Ziping method.” This is why so many present-day readings of fate fail to accord with events.
 
 ## 2. On the Heavenly Stems: Yin and Yang, Birth and Death
+<!-- source: L24-L24 -->
 ### 論天干隂陽生死
 
 <!-- source: L26 -->
@@ -147,6 +148,7 @@ This, too, reveals the argument that Jia need not [itself flourish] and Yi need 
 
 Yet examine Chen Tuan's account: “Jia is timber and Yi grass; Bing flame and Ding ash; Wu earth and Ji sand; Geng metal and Xin stone; Ren water and Gui spring.” This also divides them into two. If they are not distinguished, how can Officer and Killings, Food God and Hurting Officer, Seal-Ribbon and Owl Spirit, Rob Wealth and Companions arise as two names from one phase, while their good and ill fortune, blessings and disasters, differ so greatly? Those who examine fate should take the earlier account as correct.[^15]
 ## 3. On the Earthly Branches
+<!-- source: L48-L48 -->
 ### 論地支
 
 <!-- source: L50 -->
@@ -181,6 +183,7 @@ The functioning of the earthly branches is not the same as that of the heavenly 
 
 In general, the methods of using the Five Phases possess no single fixed reality. Birth and Death, Decline and flourishing are also borrowed names. Go directly to the source and understand whence they arise. For example, the five yang stems are hard and the five yin stems soft. Yet if a hard stem is out of season, weak in body, unsupported, and repeatedly drained of qi, it loses its hardness. If a soft stem commands the season, is strong in body, and is assisted in its functioning, it is not defeated by softness. A further distinction makes Wood and Fire yang, Metal and Water yin. All welcome generation, support, and assistance; what is most valued is balance and harmony.[^20]
 ## 4. Assigning the Ten Stems to Celestial Phenomena
+<!-- source: L74-L74 -->
 ### 十干分配天文
 
 <!-- source: L76-L80 -->
@@ -212,6 +215,7 @@ In general, the methods of using the Five Phases possess no single fixed reality
 > Though fame and profit climb to lofty eminence,  
 > Alas, the span of life is not prolonged.
 ## 5. Assigning the Twelve Branches to Terrestrial Images
+<!-- source: L96-L96 -->
 ### 十二支分配地理
 
 <!-- source: L98-L120 -->
@@ -317,6 +321,7 @@ Zuixingzi says:[^29]
 > Bail out the cold pool: you must see its bottom.
 
 ## 6. On the Animal Correspondences of the Earthly Branches
+<!-- source: L124-L124 -->
 ### 論地支屬相
 
 <!-- source: L126 -->
@@ -331,6 +336,7 @@ Wang Chong's *Balanced Discourses* says: “The qi of the Five Phases injure one
 “Yet there are also cases in which they do not overcome one another. Wu is horse, Zi rat, You chicken, Mao hare. Water overcomes Fire: why does the rat not pursue the horse? Metal overcomes Wood: why does the chicken not peck the hare? Hai is pig, Wei sheep, Chou ox. Earth overcomes Water: why do oxen and sheep not kill pigs? Si is snake, Shen monkey. Fire overcomes Metal: why does the snake not eat the macaque? Macaques fear rats, and dogs bite macaques. The rat is Water and the macaque Metal. Water does not overcome Metal: why does the macaque fear the rat? Xu is Earth and Shen monkey. Earth does not overcome Metal: why does the monkey fear the dog? The creatures of the twelve positions agree still less with the idea of mutual control by qi and nature. In general, blood-bearing creatures subdue one another, even to devouring one another, because their teeth are blunt or sharp and their sinews and strength inferior or superior. It is through these that they overcome and subdue one another.”
 
 ## 7. On the Human Origin Holding Office
+<!-- source: L128-L128 -->
 ### 論人元司事
 
 <!-- source: L130 -->
@@ -385,6 +391,7 @@ Zuixingzi says: “Time moves and things are born: this is Heaven's constant Way
 This account is sufficient to expose the error of the *Yuanyuan*. Furthermore, what is concealed within the branches is discussed only in relation to the month, not the year, day, or hour. There is profound meaning in the importance that fate reading gives to the month's governing framework.[^35]
 
 ## 8. On the Four Seasons and Their Solar Terms
+<!-- source: L154-L154 -->
 ### 論四時節氣
 
 <!-- source: L156 -->
@@ -424,6 +431,7 @@ The basis of a year is three hundred and sixty-five days and a quarter—a quart
 Hence the classic says: “Establish the starting point at the beginning, mark the proper alignment in the middle, and calculate the remainder at the end.” Such is its meaning. In Heaven's dark immensity, where are there actual degree marks? By taking the twenty-eight mansions as evidence of the sun and moon's travel within a day, their movement is recorded in du. Thus the classic says, “The stars and mansions are that by which the courses of sun and moon are measured.” To measure here is to mark their du. Heaven likewise has no inherent hou markings. Wind, rain, frost, dew, grasses, and trees respond at their appointed times and can be checked; measuring these responses is called observing the hou. The days of a hou also correspond to the qi of the five movements generating one another and taking their turn—namely five days. Like a ring without a beginning, the circuit ends and begins again. The *Documents* says: “A full cycle is three hundred and sixty-six days; by means of the intercalary month, determine the four seasons and complete the year.” This expresses the same meaning.
 
 ## 9. On the Day's Ke Divisions
+<!-- source: L158-L158 -->
 ### 論日刻
 
 <!-- source: L160 -->
@@ -442,6 +450,7 @@ In a Jiazi year, the transitions are given as follows. The clock designations ar
 This is the year's measure completing Heaven's circuit; the remaining ke pass into the first qi of the Yichou year. The cycle continues until the Wuchen year, when the first qi again begins with the water-clock's first ke. Four years thus form one small circuit. This is why the qi of Shen, Zi, and Chen meet at the same point. The first qi of Si, You, and Chou all begin at the twenty-sixth ke; those of Yin, Wu, and Xu at the fifty-first; those of Hai, Mao, and Wei at the seventy-sixth. Because their qi begin at the same ke, they are called triple combinations: their meaning originates here. Fifteen small circuits make one great circuit, or sixty years. The *Comprehensive View of the Three Vehicles* says that Shen is Water's Birth, Zi its flourishing, and Chen its Storehouse, and that this is why Shen, Zi, and Chen form a triple combination. It does not recognize that their qi begin at the same ke—Heaven's own natural subtlety.[^45]
 
 ## 10. On Hours and Their Divisions
+<!-- source: L162-L162 -->
 ### 論時刻
 
 <!-- source: L164 -->
@@ -601,6 +610,7 @@ The Five Phases lodge their life in twelve palaces: Birth, Bathing, Cap and Belt
 Whenever one examines creative transformation, the presence of Birth and flourishing need not immediately be judged auspicious, nor the presence of rest, confinement, Death, or Extinction immediately judged ominous. If Birth and flourishing are excessive, restraint and subjugation are appropriate; if Death and Extinction indicate insufficiency, generation and support are appropriate. The subtlety lies in recognizing how to adapt to change. The ancients called Gestation, Birth, flourishing, and Storehouse the four honored states; Death, Extinction, Sickness, and Defeat the four avoided states; and the remaining four neutral. This, too, is only a general statement.
 
 ## 13. On Deriving the Month and Hour
+<!-- source: L224-L224 -->
 ### 論遁月時
 
 <!-- source: L226-L238 -->
@@ -631,6 +641,7 @@ The foregoing methods for establishing month and hour take the combining numbers
 Investigated fully, both turn through mutual generation and circulate without beginning. The calendrical origin of high antiquity had Jiazi for year, month, day, and hour. The rule that Jia and Ji begin at Jiazi derives from this. Once Jiazi is established, Yichou and Bingyin follow in sequence through the twelve palaces. Yang generates yang and yin generates yin, with one position intervening; corresponding kinds become husband and wife. Thus the method for establishing months is already contained within the method for establishing hours.
 
 ## 14. On Year, Month, Day, and Hour
+<!-- source: L240-L240 -->
 ### 論年月日時
 
 <!-- source: L242 -->
@@ -669,6 +680,7 @@ It is also said: “Injury to the year is unfavorable to the father. Injury to t
 “Yet if the upper generates the lower and the Five Phases meet in qi that generates blessings, it is also judged a good fate. If their interaction generates misfortune, it is not good. Only when the Four Pillars are pure, without punishment, clash, breaking, harm, Void, Death, or Extinction, and auspicious influences additionally support one another, is the fate auspicious. The opposite is ominous.”
 
 ## 15. On the Conception Origin
+<!-- source: L246-L246 -->
 ### 論胎元
 
 <!-- source: L248 -->
@@ -700,6 +712,7 @@ An old poem says:
 This, broadly, is its intended meaning. According to the *Classic of Gestational Divisions*, people are born after two hundred and seventy days in the womb. Physicians' reckoning of delivery after ten months includes a month concerned with the blood organs' dryness and moisture. Yet some people are born after more months and some after fewer: what can be taken as the fixed standard? Births after more months are not merely recorded in ancient and recent accounts. Of the two or three people I personally know, all came from poor households. As for fewer months, Censor Du Zheng had only seven: my colleagues and I heard him say this ourselves. Master Wu Lai, known as Yuanying, and Lord Song Lian, posthumously titled Wenxian, were also both born after seven months. How, then, can one rely upon the claim that an eminent person's conception must fall exactly three hundred days before birth?[^72]
 
 ## 16. On Establishing the Life Palace
+<!-- source: L250-L250 -->
 ### 論坐命宫
 
 <!-- source: L252 -->
@@ -710,6 +723,7 @@ First lay out the birth months, beginning the first month upon Zi, the second up
 For example, take someone born in the third month of a Jiazi year, in the Xu hour. Place the first month at Zi, the second at Hai, and the third at Xu, where one stops. Then place the Xu hour upon Xu: Hai falls upon Hai, Zi upon Zi, Chou upon Chou, Yin upon Yin, and Mao upon Mao. On reaching Mao, the palace is established; the fate therefore sits in Mao. Assign its stem according to the Jiazi year, using the same method as deriving month stems: “In Jia and Ji years, Bing takes the first place.” The palace is therefore Dingmao. Next examine the three directions together with the natal fate and the circulating stems, judging good and ill according to the stars encountered.
 
 ## 17. On the Major Luck Cycles
+<!-- source: L254-L254 -->
 ### 論大運
 
 <!-- source: L256 -->
@@ -801,6 +815,7 @@ Another account says: “The ancients named stems and branches Jiazi, [Yichou], 
 “This is a rigid [formula]: judgment must follow the configuration's preferences and aversions. A strong stem suits a declining course. As the saying has it, ‘A weak stem seeks support where qi is strong; one with excess seeks the management of what is insufficient.’ Adaptation to change is essential. Combine this with examination of the annual circulating influences and the various spirits and sha, and the response is wondrously exact.”[^89]
 
 ## 18. On the Minor Luck Progression
+<!-- source: L276-L276 -->
 ### 論小運
 
 <!-- source: L278 -->
@@ -816,6 +831,7 @@ Those who discuss fate today use only the major course, overlooking the minor pr
 Zuixingzi holds that the minor progression for men and women alike begins from the birth hour, with forward or backward direction determined by the year. For example, a male in a yang year, born in a Jiazi hour, begins Yichou immediately upon birth; in the second year he proceeds to Bingyin. Each position governs one year, and the circuit repeats. A female in a yang year proceeds backward in the same manner. I have tried this repeatedly and found it borne out. Its good and ill must also be weighed against the major course, the useful influence in the pillars, and the day ruler. During childhood, before the major course begins, use this method especially. A progression into Death or Extinction, or a palace where sha flourish, must bring danger. First examine the Eight Characters' strength, weakness, preferences, and aversions; then compare this progression with them, and scarcely a judgment will fail.[^91]
 
 ## 19. On Tai Sui, the Grand Duke of the Year
+<!-- source: L280-L280 -->
 ### 論太嵗
 
 <!-- source: L282 -->
@@ -848,6 +864,7 @@ One chart was **Wuchen / Wuwu / Wuxu / Jiayin 戊辰／戊午／戊戌／甲寅*
 In general, the day offending the year's ruler is more severe with the five yang stems and lighter with the five yin stems. If the day stem is Heavenly or Monthly Virtue and Tai Sui is the useful influence, there is no harm; instead there is gain. If a heavenly clash and earthly collision were already present in the pillars and recur in the circulating year, there is likewise no great harm. If Tai Sui controls the birth hour, or the hour controls Tai Sui, there is also disaster, but it is judged through the children's position.[^98]
 
 ## 20. A General Discussion of Year and Luck Course
+<!-- source: L284-L284 -->
 ### 總論嵗運
 
 <!-- source: L286 -->
@@ -869,6 +886,7 @@ The *Shenbai Classic* says: “In discussing Obscuring Qi, the day is [light], t
 <!-- source: L290 -->
 Another account says: “The major luck course should not control or clash with Tai Sui. It is especially objectionable for the course to control the year, equivalent to the day's offense: it indicates loss, depletion, and mourning. Noble Person, Lu, and Horse can resolve it and make it somewhat auspicious; if the Eight Characters contain rescue, there is no cause for fear.” The classic says: “The year clashing with or controlling the course is auspicious; the course clashing with or controlling the year is ominous. With an inauspicious configuration, death follows. Mutual generation between year and course is auspicious, as are the combination and exchange of Lu, Horse, and Noble Person. Examine closely and infer in detail: nothing will fail to be borne out.”[^103]
 ## 21. On the Advancing, Crossing, Retreating, and Hidden Spirits
+<!-- source: L292-L292 -->
 ### 論進交退伏
 
 <!-- source: L294 -->
@@ -879,6 +897,7 @@ Yan Dongsou says: “Using the ten stems, establish four periods of fifteen days
 Huzhongzi says: “Moving forward with Tai Sui is called the Advancing Spirit; moving backward against Tai Sui is called the Retreating Spirit. Meeting advancement gives sharp and accomplished writing; meeting retreat makes understanding dark and confused.” The *Guangxin Collection* instead takes Jia–Yi–Bing–Ding and Zi–Chou–Yin–Mao as advancement, Ding–Bing–Yi–Jia and Mao–Yin–Chou–Zi as retreat. If stems and branches both retreat, something unsatisfactory follows amid satisfaction. Thus Gengxu obtaining Jiayin advances; obtaining Yisi retreats. What lies outside the same ten-day round acts more slowly. But this supplies only advancement and retreat, without Crossing and Hidden Spirits. I fear it is not correct.[^105]
 
 ## 22. On the Combinations of the Ten Stems
+<!-- source: L296-L296 -->
 ### 論十干合
 
 <!-- source: L298 -->
@@ -923,6 +942,7 @@ It is also said: “If stem combination is joined by branch combination within t
 “In worldly affairs, a husband may belong to one's own district while a wife comes from another. Hence mutual meeting across rounds is called Husband and Wife Gathering Together, also **Heaven and Earth Obtaining Combination**. Even then, harmonious qi and noble influences must assist before the combination is useful. Internal clash, breaking, or injury, and punishment or sha within the combination, are all inauspicious.” The *Imperially Composed Conversations* says: “Lu within combination assuredly makes dukes and marquises; mutual injury at the place of combination leaves it without benefit.” This is the meaning.
 
 ## 23. On the Ten Stems Transforming Qi
+<!-- source: L324-L324 -->
 ### 論十干化氣
 
 <!-- source: L326-L336 -->
@@ -994,6 +1014,7 @@ There is **retreating transformation around a corner**: within a stem combinatio
 There is **self-transformation beneath the seat**, namely Renwu, Dinghai, Wuzi, Jiawu, Xinsi, and Guisi. Ding's Lu is at Wu, and Ren combines with Ding; Ren's Lu is at Hai, and Ding combines with Ren: the other cases follow this pattern. Renwu and Dinghai bring the deepest blessings; Wuzi indicates intelligence, Xinsi strategic calculation, and Jiawu modest success. Guisi 癸巳 brings distinction accompanied by affliction through drink and sexual indulgence.[^120]
 
 ## 24. A Month-by-Month Comparison of the Images of Principle and Transformation
+<!-- source: L374-L374 -->
 ### 逐月横看理化之象
 
 <!-- source: L376-L460 -->
@@ -1061,6 +1082,7 @@ There is **self-transformation beneath the seat**, namely Renwu, Dinghai, Wuzi, 
 
 
 ## 25. On the Six Combinations of the Branch Origin
+<!-- source: L462-L462 -->
 ### 論支元六合
 
 <!-- source: L464 -->
@@ -1117,6 +1139,7 @@ The *Book of Transformations of the Heavenly Origin* gives these directional dis
 Thus Jiawu with Xinwei has only a strong body, while its fate and Lu are weak. Yiwei with Renwu, though weak in Lu, gains something nevertheless. It is also said: “Men avoid combining into Extinction; women avoid combining with Noble Person.”[^127]
 
 ## 26. On the Triple Combinations of the Branch Origin
+<!-- source: L466-L466 -->
 ### 論支元三合
 
 <!-- source: L468 -->
@@ -1211,6 +1234,7 @@ The *Purple Void Scheme* says:
 Examination of these books shows that Salty Pool is not an auspicious influence. Encountered in day or hour, or by a Water fate, it is especially ominous.
 
 ## 29. On the Six Harms
+<!-- source: L482-L482 -->
 ### 論六害
 
 <!-- source: L484-L492 -->
@@ -1246,6 +1270,7 @@ In general, the Six Harms entering a fate indicate injury and solitude, close ki
 Thus a fate meeting the Six Harms especially avoids mutual injury between stems and branches. Day and hour matter most; the Body and Life Palaces come next. Even a noble configuration does not erase it: distinction remains distinction, harm remains harm; neither conceals the other.
 
 ## 30. On the Three Punishments
+<!-- source: L500-L500 -->
 ### 論三刑
 
 <!-- source: L502 -->
@@ -1397,7 +1422,7 @@ Examining these poems shows that clashes and breaking can be auspicious or omino
 
 ## Translator’s endnotes
 
-[^01]: **Text and comparison witnesses.** **S** means the repository’s [Chinese juan two](../source/juan-02.md), exported from [Wikisource revision 761691](https://zh.wikisource.org/w/index.php?oldid=761691); its SHA-256 is recorded above. It controls both content and order. **G596**, **G597**, and **G598** mean the parallel *Sanming tonghui* material in the *Gujin Tushu Jicheng*, Arts volumes [596](https://zh.wikisource.org/wiki/欽定古今圖書集成/博物彙編/藝術典/第596卷), [597](https://zh.wikisource.org/wiki/欽定古今圖書集成/博物彙編/藝術典/第597卷), and [598](https://zh.wikisource.org/wiki/欽定古今圖書集成/博物彙編/藝術典/第598卷), consulted as online transcriptions. **I** means the scanned [1909 *Gailiang Sanming Tonghui*, juan 2, Shanghai: Jiangzuo Shulin](https://commons.wikimedia.org/wiki/File:SSID-13035019_改良三命通會_卷2.pdf). Its page references below are one-based PDF pages, not printed leaf numbers. Selected images were examined directly; this is not a complete facsimile collation. **U** means the shorter [unlabelled Wikisource juan two](https://zh.wikisource.org/wiki/三命通會/卷二), also consulted but not used to replace S. Witnesses were consulted on 25 September 2026. Agreement between online texts is evidence for a reading, not proof of independent descent. Added punctuation in a comparison transcription is not treated as evidence for the original punctuation or quotation boundaries. The original Chinese files have not been emended. The English section numbers and subordinate headings are editorial; the separate Siku preface is not translated here.
+[^01]: **Text and comparison witnesses.** **S** means the repository’s [Chinese juan two](../source/juan-02.md), exported from [Wikisource revision 761691](https://zh.wikisource.org/w/index.php?oldid=761691); its SHA-256 is recorded above. It controls both content and order. **G596**, **G597**, and **G598** mean the parallel *Sanming tonghui* material in the *Gujin Tushu Jicheng*, Arts volumes [596](https://zh.wikisource.org/wiki/欽定古今圖書集成/博物彙編/藝術典/第596卷), [597](https://zh.wikisource.org/wiki/欽定古今圖書集成/博物彙編/藝術典/第597卷), and [598](https://zh.wikisource.org/wiki/欽定古今圖書集成/博物彙編/藝術典/第598卷), consulted as online transcriptions. **I** means the scanned [1909 *Gailiang Sanming Tonghui*, juan 2, Shanghai: Jiangzuo Shulin](https://commons.wikimedia.org/wiki/File:SSID-13035019_改良三命通會_卷2.pdf). Its page references below are one-based PDF pages, not printed leaf numbers. Selected images were examined directly; this is not a complete facsimile collation. **U** means the shorter [unlabelled Wikisource juan two](https://zh.wikisource.org/wiki/三命通會/卷二), also consulted but not used to replace S. Witnesses were consulted on 25 September 2026. Agreement between online texts is evidence for a reading, not proof of independent descent. Added punctuation in a comparison transcription is not treated as evidence for the original punctuation or quotation boundaries. The original Chinese files have not been emended. The English section numbers and subordinate headings are editorial; the separate Siku preface is translated in [preface.md](preface.md).
 
 [^02]: **How to read the terminology.** A capitalized phase is an explanatory category, not necessarily the physical substance; a named stage such as Death or Sickness is a position in a cycle, not itself a diagnosis. *Qi* is retained rather than consistently reduced to “energy.” Lu can mean a designated stem position, emolument, or the prosperity associated with that position. “Useful influence” renders 用神 according to the local argument; it does not invariably mean a modern chart’s single corrective element. The text’s predictions about disease, longevity, reproduction, character, gender, or status are historical claims, not established facts or advice about a living person. Keeping them visible preserves the source without endorsing them.
 

@@ -7,7 +7,7 @@ source_revision: 761705
 source_sha256: "63e1166326e083921497a1ff88e4f922b23df17b9aaea804dde78ab060e8b5ba"
 language: "en"
 translation_date: "2026-09-26"
-scope: "Juan eleven in full; the separate Siku editorial preface remains untranslated."
+scope: "Juan eleven in full; the Siku editorial preface is translated separately in preface.md."
 ---
 
 # Sanming Tonghui · Juan Eleven

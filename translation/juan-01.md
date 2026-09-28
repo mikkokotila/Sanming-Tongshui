@@ -7,7 +7,7 @@ source_revision: 657365
 source_sha256: "df301722ce8c5a767df948750b2b7782b0b9bbbc7ada58e2999cadda9a9f4e28"
 language: "en"
 translation_date: "2026-09-25"
-scope: "Juan one in full; the separately transmitted Siku editorial preface is excluded."
+scope: "Juan one in full; the Siku editorial preface is translated separately in preface.md."
 ---
 
 # Sanming Tonghui · Juan One
@@ -16,6 +16,8 @@ scope: "Juan one in full; the separately transmitted Siku editorial preface is e
 **Compiled by Wan Minying of the Ming dynasty.** From the imperially commissioned *Siku Quanshu*.[^01]
 
 *Reading conventions.* **Wood, Fire, Earth, Metal, and Water** name the Five Phases; *qi*, *yin*, *yang*, and *nayin* are retained where an English substitute would narrow the meaning. Stem–branch names are given in unaccented pinyin, with Chinese at their first systematic presentation. Angled brackets **〈 〉** distinguish the source's small-character commentary from the main text. Square brackets mark a translator's supplied clarification, not words present in the Chinese. The numbered endnotes distinguish explanation, textual variation, and conjectural correction.[^02]
+
+*For the editors’ introductory assessment, read the [Siku editorial preface](preface.md).*
 
 ## 1. Investigating the Beginnings of Creative Transformation
 ### 原造化之始
@@ -259,7 +261,7 @@ Take the **stem as Lu**, to determine rank and lowliness; the **branch as destin
 ## 9. Explaining the Natures and Fortunes of the Sixty Combinations
 ### 釋六十甲子性質吉凶
 
-<!-- source: inventory from 甲子金為寶物 to 癸亥水百川 -->
+<!-- source: L83-L189 -->
 ### 9.1. The sixty concise entries
 
 *The source's compact small-character annotations are presented in the table below. The final column contains traditional indicator-names, not independent diagnoses or judgments about a person. Their terminology and uncertain divisions are explained in the endnotes.*[^40]
@@ -329,7 +331,7 @@ Take the **stem as Lu**, to determine rank and lowliness; the **branch as destin
 
 ### 9.2. Following changes of scale and strength
 
-<!-- source: L193 -->
+<!-- source: L191-L191 -->
 Among these sixty combinations, what is great and powerful should not change into what is small and weak; what is small and weak seeks to become great and powerful. Does it not? Poverty and low station followed by wealth and distinction bring glory; wealth and distinction followed by poverty and low station bring humiliation. One must not see only the initial poverty and overlook the later distinction, nor see only the initial distinction and overlook the later poverty.
 
 Suppose the birth year's phase is Wood, specifically Gengyin or Xinmao: we know that this Wood is great and strong. If no other Wood appears in the month, day, hour, or conception pillar, judge it as Pine-and-Cypress Wood. But if Willow, Mulberry, or Pomegranate Wood appears there, set aside the greater and follow the lesser: do not judge it simply as pine and cypress. Suppose, instead, the person is born in Renwu or Guiwei: we know that this Wood is small and weak. If no other Wood appears in the month, day, hour, or conception pillar, judge it as Willow Wood. But if Pine-and-Cypress Wood or Great Forest Wood appears, set aside the lesser and judge by the greater: do not judge it simply as willow.[^46]
@@ -338,7 +340,7 @@ The same applies to people born under Fire in Heaven, Sword-Edge Metal, Great Se
 
 ### 9.3. Expanded judgments on the sixty combinations
 
-<!-- source: L195-L201 -->
+<!-- source: L193-L201 -->
 **Jiazi 甲子.** This is Metal that yields to alteration, its qi dispersed. Support from Wushen Earth or Guisi Water is auspicious. Wushen is the position of Metal's Arrival at Office; Earth, moreover, flourishes at Zi and can assuredly generate and complete it. In Guisi, Metal is born at Si and Water flourishes at Zi: each nayin finds its proper destination. This is also called **Lu Returning to the Origin**. It avoids the Fire of Dingmao, Dingyou, and Wuwu. Yan Dongsou says: “Jiazi Metal is an Advancing Spirit. It receives the virtue of depth, inwardness, and an empty center, and is auspicious in all four seasons. When it fulfills a prestigious configuration and receives flourishing qi, it gives subtle mastery of an art or profession and the honor of taking first place.”[^47]
 
 **Yichou 乙丑.** This is Metal in its own Storehouse. Fire cannot control it: Metal already hidden away is naturally free from such injury. When it is opened by a clash or break, distinction and glory invariably follow. It avoids only the Fire of Jichou and Jiwei. Yan Dongsou says: “Yichou is a Direct Seal and possesses great blessings and virtue. In autumn and winter it gives wealth, rank, and long life; in spring and summer there is ill fortune within the good. When it fulfills a configuration, it establishes merit and enjoys blessings; when accompanied by harmful influences, it tends to become an inauspicious conjunction.” The *Precious Mirror of the Jade Empyrean* says: “Jiazi and Yichou are Metal not yet fashioned into a vessel. Encountering Fire completes them; repeated encounters are auspicious.”[^48]
@@ -1005,6 +1007,7 @@ Xu Dasheng says:
 
 These words are brief, yet exhaust the matter.
 
+<!-- source: L453-L455 -->
 *Sanming Tonghui, Juan One.*
 
 *Catalog classification preserved with the source: Masters Division; Techniques of Calculation; Books of Destiny and Physiognomy; Sanming Tonghui.*[^01]
@@ -1019,7 +1022,7 @@ These words are brief, yet exhaust the matter.
 
 **References:** [S, fixed revision 657365](https://zh.wikisource.org/w/index.php?oldid=657365); [G593](https://zh.wikisource.org/wiki/欽定古今圖書集成/博物彙編/藝術典/第593卷); [G594](https://zh.wikisource.org/wiki/欽定古今圖書集成/博物彙編/藝術典/第594卷); [G595](https://zh.wikisource.org/wiki/欽定古今圖書集成/博物彙編/藝術典/第595卷); [W, fixed revision 2271026](https://zh.wikisource.org/w/index.php?oldid=2271026). Comparison access: 25 September 2026. G is an anthology witness, not a complete standalone edition of this book; W's underlying print edition is not securely identified here. G's parent-page revision alone does not freeze later changes to its transcluded pages.
 
-[^01]: **Scope and title.** The controlling text is S, not the shorter unlabelled Wikisource version. The separate 四庫全書提要 is deliberately excluded; the juan's own opening, closing title, and catalog classification are retained. *Sanming tonghui* is the work's conventional romanization; `Sanming-Tongshui` remains the repository name requested by its owner. “A Comprehensive Gathering of the Three Fates” is an interpretive English title, not a claim that *ming* always means fatal predetermination. The numbered hierarchy, paragraphing, and inventory table are editorial reading aids. Completeness here means coverage of S's transmitted juan, not certification of a flawless historical text.
+[^01]: **Scope and title.** The controlling text is S, not the shorter unlabelled Wikisource version. The separate 四庫全書提要 is translated in [the Siku editorial preface](preface.md); the juan's own opening, closing title, and catalog classification are retained. *Sanming tonghui* is the work's conventional romanization; `Sanming-Tongshui` remains the repository name requested by its owner. “A Comprehensive Gathering of the Three Fates” is an interpretive English title, not a claim that *ming* always means fatal predetermination. The numbered hierarchy, paragraphing, and inventory table are editorial reading aids. Completeness here means coverage of S's transmitted juan, not certification of a flawless historical text.
 
 [^02]: **Key vocabulary.** *Qi* 氣 denotes the vital, material, and atmospheric processes through which this text explains change; “energy” alone would be too narrow. *Li* 理 is translated “pattern,” sometimes “principle” where the argument requires it. The Five Phases are modes of operation as well as named substances, not simply five chemical ingredients. Capitalization helps distinguish technical relationships from ordinary objects without denying the source's deliberate movement between them. Angled brackets retain small-character source commentary; square brackets expose supplied clarification or emendation. Original Chinese headings remain available for alignment.
 

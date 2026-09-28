@@ -7,7 +7,7 @@ source_revision: 761703
 source_sha256: "af05985d5663634f21ac74bcbec3dbb7827c7447c4d31e2c06764a897227bdb5"
 language: "en"
 translation_date: "2026-09-26"
-scope: "Juan ten in full; the separate Siku editorial preface remains untranslated."
+scope: "Juan ten in full; the Siku editorial preface is translated separately in preface.md."
 ---
 
 # Sanming Tonghui · Juan Ten
